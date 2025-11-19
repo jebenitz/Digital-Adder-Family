@@ -1,7 +1,7 @@
 # Digital-Adder-Family
 Implementation of a complete family of digital adders, from basic logic gates to a fully hierarchical 64-bit Carry Lookahead Adder (CLA) in Verilog RTL. Includes testbenches, CMOS transistor-level design, LTspice simulations, and propagation delay analysis.
 
-The `ReportV2.pdf` file provides the full documentation of the project.
+The `Final-ReportV2.pdf` in '\Documentation' file provides the full documentation of the project.
 
 ---
 
